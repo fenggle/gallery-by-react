@@ -45,7 +45,7 @@ function getDefaultModules() {
         loader: 'style-loader!css-loader!stylus-loader'
       },
       {
-        test: /\.(png|jpg|gif|woff|woff2|ttf|eot|svg)$/,
+        test: /\.(png|JPG|gif|woff|woff2|ttf|eot|svg|jpg)$/,
         loader: 'url-loader?limit=8192'
       },
       {
