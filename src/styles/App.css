@@ -8,6 +8,8 @@ body {
   border-radius: 4px;
   background: #fff;
   display: block;
+  width: 240px;
+  height: 260px;
 }
 
 .index .notice {
